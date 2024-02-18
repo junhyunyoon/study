@@ -3,6 +3,6 @@
 - vscode
 - python
 - jupyter
-- github
-
-중심의 coding 기초 공부하기
+- pyenv 가상환경
+- conda 가상환경
+- built-in function
