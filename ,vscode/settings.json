@@ -1,4 +1,4 @@
-{ 
+{
   "RainbowBrackets.depreciation-notice": false,
   "[plaintext]": {
     "editor.quickSuggestions": {
@@ -13,9 +13,7 @@
     "diffEditor.ignoreTrimWhitespace": false,
     "editor.formatOnType": true,
     "editor.wordBasedSuggestions": "off",
-    "gitlens.codeLens.symbolScopes": [
-      "!Module"
-    ]
+    "gitlens.codeLens.symbolScopes": ["!Module"]
   },
   "chat.editor.fontSize": 16,
   "cloudcode.duetAI.project": "my-project-240215-414410",
@@ -23,7 +21,7 @@
   "debug.openDebug": "neverOpen",
   "editor.accessibilitySupport": "off",
   "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "editor.fontFamily": "FiraCode Nerd Font, Consolas, Menlo, Monaco, 'Courier New', monospace, LG Smart_H",
+  "editor.fontFamily": "Fira Code, Fira Mono, Menlo, Monaco, 'Courier New', monospace, LG Smart_H",
   "editor.fontLigatures": true,
   "editor.fontSize": 16,
   "editor.formatOnSave": true,
@@ -75,21 +73,18 @@
   "tabnine.ignoreCertificateErrors": false,
   "terminal.integrated.defaultProfile.osx": "zsh",
   "terminal.integrated.env.osx": {
-    "CW_NEW_SESSION": "1"
+    "CW_NEW_SESSION": "1",
+    "FIG_NEW_SESSION": "1"
   },
 
-  "terminal.integrated.fontFamily": "D2CodingLigature Nerd Font",
+  "terminal.integrated.fontFamily": "FiraCode Nerd Font, D2Coding Nerd Font, LG Smart_H",
   "terminal.integrated.fontSize": 16,
   "terminal.integrated.inheritEnv": false,
   "vscode-bard.cookie": "fQj1zXszGPhmtwvY93GOOZOeDgErVfneBPAnIlWmg46bVSm8Mu01l8VJOJw6gQTbyekLfw",
   "workbench.colorCustomizations": {},
   "workbench.colorTheme": "GitHub Dark Colorblind (Beta)",
   "workbench.editor.enablePreview": true,
-  "workbench.iconTheme": "material-icon-theme"
-
-  ]
-  "better-comments.highlightPlainText": false
-  "better-comments.multilineComments": true
+  "workbench.iconTheme": "material-icon-theme",
   "better-comments.tags": [
     {
       "tag": "!",
@@ -135,10 +130,12 @@
       "backgroundColor": "transparent",
       "bold": false,
       "italic": false
+    },
+    {
+      "tag": "@", // 커스텀 코드 추가
+      "color": "#FFFF00", // 커스텀 색상 설정
+      "strikethrough": false, // 취소선 넣을것인가
+      "backgroundColor": "transparent" // 배경색은 어떻게 할 것인가
     }
   ]
-  "Color-comments.multilineComments": true
-  "Color-comments.tags"
-  "Color-comments.highlightPlainText": false
-
 }
