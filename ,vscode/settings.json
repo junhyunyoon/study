@@ -1,0 +1,144 @@
+{ 
+  "RainbowBrackets.depreciation-notice": false,
+  "[plaintext]": {
+    "editor.quickSuggestions": {
+      "comments": "on",
+      "other": "on",
+      "strings": "on"
+    },
+    "editor.unicodeHighlight.ambiguousCharacters": false,
+    "editor.unicodeHighlight.invisibleCharacters": false
+  },
+  "[python]": {
+    "diffEditor.ignoreTrimWhitespace": false,
+    "editor.formatOnType": true,
+    "editor.wordBasedSuggestions": "off",
+    "gitlens.codeLens.symbolScopes": [
+      "!Module"
+    ]
+  },
+  "chat.editor.fontSize": 16,
+  "cloudcode.duetAI.project": "my-project-240215-414410",
+  "debug.console.fontSize": 15,
+  "debug.openDebug": "neverOpen",
+  "editor.accessibilitySupport": "off",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.fontFamily": "FiraCode Nerd Font, Consolas, Menlo, Monaco, 'Courier New', monospace, LG Smart_H",
+  "editor.fontLigatures": true,
+  "editor.fontSize": 16,
+  "editor.formatOnSave": true,
+  "editor.hover.enabled": false,
+  "editor.minimap.enabled": false,
+  "editor.mouseWheelZoom": true,
+  "editor.tabCompletion": "on",
+  "editor.tabSize": 2,
+  "editor.wordSeparators": "`~!@#%^&*()-=+[{]}\\|;:'\",.<>/?",
+  "editor.wordWrap": "on",
+  "explorer.fileNesting.enabled": true,
+  "extensions.experimental.affinity": {
+    "asvetliakov.vscode-neovim": 1
+  },
+  "files.autoSave": "onFocusChange",
+  "files.defaultLanguage": "powershell",
+  "git.autofetch": true,
+  "git.confirmSync": false,
+  "git.enableSmartCommit": true,
+  "githubPullRequests.pushBranch": "always",
+  "gitlens.advanced.messages": {
+    "suppressCreatePullRequestPrompt": true
+  },
+  "gitlens.ai.experimental.openai.model": "gpt-4-turbo-preview",
+  "gitlens.ai.experimental.provider": "openai",
+  "gitlens.gitCommands.skipConfirmations": [
+    "fetch:command",
+    "stash-push:command",
+    "switch:command"
+  ],
+  "gitlens.views.branches.pullRequests.enabled": false,
+  "gitlens.views.branches.pullRequests.showForBranches": false,
+  "gitlens.views.repositories.avatars": false,
+  "json.schemas": [],
+  "markdown.preview.fontSize": 16,
+  "merge-conflict.autoNavigateNextConflict.enabled": true,
+  "npm.enableRunFromFolder": true,
+  "openInGitHub.providerType": "github",
+  "php.format.rules.openBraceOnNewLineForBlocks": true,
+  "powershell.buttons.showPanelMovementButtons": true,
+  "powershell.codeFolding.showLastLine": false,
+  "powershell.integratedConsole.focusConsoleOnExecute": false,
+  "python.defaultInterpreterPath": "",
+  "scm.inputFontSize": 15,
+  "settingsSync.ignoredExtensions": [],
+  "settingsSync.ignoredSettings": [],
+  "tabnine.disableFileRegex": false,
+  "tabnine.experimentalAutoImports": true,
+  "tabnine.ignoreCertificateErrors": false,
+  "terminal.integrated.defaultProfile.osx": "zsh",
+  "terminal.integrated.env.osx": {
+    "CW_NEW_SESSION": "1"
+  },
+
+  "terminal.integrated.fontFamily": "D2CodingLigature Nerd Font",
+  "terminal.integrated.fontSize": 16,
+  "terminal.integrated.inheritEnv": false,
+  "vscode-bard.cookie": "fQj1zXszGPhmtwvY93GOOZOeDgErVfneBPAnIlWmg46bVSm8Mu01l8VJOJw6gQTbyekLfw",
+  "workbench.colorCustomizations": {},
+  "workbench.colorTheme": "GitHub Dark Colorblind (Beta)",
+  "workbench.editor.enablePreview": true,
+  "workbench.iconTheme": "material-icon-theme"
+
+  ]
+  "better-comments.highlightPlainText": false
+  "better-comments.multilineComments": true
+  "better-comments.tags": [
+    {
+      "tag": "!",
+      "color": "#FF2D00",
+      "strikethrough": false,
+      "underline": false,
+      "backgroundColor": "transparent",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "tag": "?",
+      "color": "#3498DB",
+      "strikethrough": false,
+      "underline": false,
+      "backgroundColor": "transparent",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "tag": "//",
+      "color": "#474747",
+      "strikethrough": true,
+      "underline": false,
+      "backgroundColor": "transparent",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "tag": "todo",
+      "color": "#FF8C00",
+      "strikethrough": false,
+      "underline": false,
+      "backgroundColor": "transparent",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "tag": "*",
+      "color": "#98C379",
+      "strikethrough": false,
+      "underline": false,
+      "backgroundColor": "transparent",
+      "bold": false,
+      "italic": false
+    }
+  ]
+  "Color-comments.multilineComments": true
+  "Color-comments.tags"
+  "Color-comments.highlightPlainText": false
+
+}
