@@ -25,8 +25,6 @@
   "editor.fontLigatures": true,
   "editor.fontSize": 16,
   "editor.formatOnSave": true,
-  "editor.hover.enabled": false,
-  "editor.minimap.enabled": false,
   "editor.mouseWheelZoom": true,
   "editor.tabCompletion": "on",
   "editor.tabSize": 2,
@@ -77,7 +75,7 @@
     "FIG_NEW_SESSION": "1"
   },
 
-  "terminal.integrated.fontFamily": "FiraCode Nerd Font, D2Coding Nerd Font, LG Smart_H",
+  "terminal.integrated.fontFamily": "FiraCode Nerd Font, LG Smart_H",
   "terminal.integrated.fontSize": 16,
   "terminal.integrated.inheritEnv": false,
   "vscode-bard.cookie": "fQj1zXszGPhmtwvY93GOOZOeDgErVfneBPAnIlWmg46bVSm8Mu01l8VJOJw6gQTbyekLfw",
@@ -137,5 +135,14 @@
       "strikethrough": false, // 취소선 넣을것인가
       "backgroundColor": "transparent" // 배경색은 어떻게 할 것인가
     }
-  ]
+  ],
+  "java.templates.typeComment": [],
+  "editor.hover.enabled": false,
+  "chatgpt.lang": "en",
+  "bitoAI.codeCompletion.enableAutoCompletion": true,
+  "bitoAI.codeCompletion.enableCommentToCode": true,
+  "gitlens.graph.minimap.enabled": false,
+  "editor.minimap.enabled": false,
+  "editor.minimap.autohide": false,
+  "extensions.supportUntrustedWorkspaces": {}
 }

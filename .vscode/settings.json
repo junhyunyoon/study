@@ -1,5 +1,7 @@
 {
   "commentTranslate.multiLineMerge": false,
   "commentTranslate.source": "Google",
-  "commentTranslate.targetLanguage": "en"
+  "commentTranslate.targetLanguage": "en",
+  "python.analysis.autoImportCompletions": true,
+  "python.analysis.typeCheckingMode": "basic"
 }
