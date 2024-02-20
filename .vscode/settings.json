@@ -6,7 +6,8 @@
   "python.analysis.typeCheckingMode": "basic",
   "editor.formatOnType": true,
   "javascript.preferences.quoteStyle": "double",
-  "oneDarkPro.editorTheme": "One Dark Pro",
-  "workbench.colorTheme": "Default Dark Modern",
-  "workbench.preferredDarkColorTheme": "Default Dark Modern"
+  "oneDarkPro.editorTheme": "One Dark Pro Darker",
+  "workbench.colorTheme": "Default Dark+",
+  "workbench.preferredDarkColorTheme": "Default Dark+",
+  "workbench.preferredHighContrastLightColorTheme": "Default High Contrast Light"
 }
