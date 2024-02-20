@@ -15,9 +15,9 @@
     "editor.wordBasedSuggestions": "off",
     "gitlens.codeLens.symbolScopes": ["!Module"]
   },
-  "chat.editor.fontSize": 20,
+  "chat.editor.fontSize": 14,
   "cloudcode.duetAI.project": "my-project-240215-414410",
-  "debug.console.fontSize": 15,
+  "debug.console.fontSize": 14,
   "debug.openDebug": "neverOpen",
   "editor.accessibilitySupport": "off",
   "editor.defaultFormatter": "esbenp.prettier-vscode",
@@ -54,7 +54,7 @@
   "gitlens.views.branches.pullRequests.showForBranches": false,
   "gitlens.views.repositories.avatars": false,
   "json.schemas": [],
-  "markdown.preview.fontSize": 16,
+  "markdown.preview.fontSize": 14,
   "merge-conflict.autoNavigateNextConflict.enabled": true,
   "npm.enableRunFromFolder": true,
   "openInGitHub.providerType": "github",
@@ -63,7 +63,7 @@
   "powershell.codeFolding.showLastLine": false,
   "powershell.integratedConsole.focusConsoleOnExecute": false,
   "python.defaultInterpreterPath": "",
-  "scm.inputFontSize": 15,
+  "scm.inputFontSize": 14,
   "settingsSync.ignoredExtensions": [],
   "settingsSync.ignoredSettings": [],
   "tabnine.disableFileRegex": [false],
@@ -76,7 +76,7 @@
   },
 
   "terminal.integrated.fontFamily": "FiraCode Nerd Font, LG Smart_H",
-  "terminal.integrated.fontSize": 16,
+  "terminal.integrated.fontSize": 14,
   "terminal.integrated.inheritEnv": false,
   "vscode-bard.cookie": "fQj1zXszGPhmtwvY93GOOZOeDgErVfneBPAnIlWmg46bVSm8Mu01l8VJOJw6gQTbyekLfw",
   "workbench.colorCustomizations": {},
@@ -171,7 +171,6 @@
 
   "files.trimTrailingWhitespace": true,
   "editor.lineHeight": 30,
-  "workbench.preferredDarkColorTheme": "Default Dark+",
   "oneDarkPro.editorTheme": "One Dark Pro Darker",
   "editor.semanticTokenColorCustomizations": {
     "[One Dark Pro]": {
@@ -186,5 +185,6 @@
         "parameter:python": "#aaaaaa"
       }
     }
-  }
+  },
+  "workbench.preferredDarkColorTheme": "Default Dark+"
 }

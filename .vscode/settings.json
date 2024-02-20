@@ -7,7 +7,7 @@
   "editor.formatOnType": true,
   "javascript.preferences.quoteStyle": "double",
   "oneDarkPro.editorTheme": "One Dark Pro Darker",
-  "workbench.colorTheme": "Default Dark Modern",
+  "workbench.colorTheme": "One Dark Pro Darker",
   "workbench.preferredDarkColorTheme": "Default Dark Modern",
   "workbench.preferredHighContrastLightColorTheme": "Default High Contrast Light",
   "commentTranslate.hover.enabled": true
