@@ -15,7 +15,7 @@
     "editor.wordBasedSuggestions": "off",
     "gitlens.codeLens.symbolScopes": ["!Module"]
   },
-  "chat.editor.fontSize": 16,
+  "chat.editor.fontSize": 20,
   "cloudcode.duetAI.project": "my-project-240215-414410",
   "debug.console.fontSize": 15,
   "debug.openDebug": "neverOpen",
@@ -80,7 +80,7 @@
   "terminal.integrated.inheritEnv": false,
   "vscode-bard.cookie": "fQj1zXszGPhmtwvY93GOOZOeDgErVfneBPAnIlWmg46bVSm8Mu01l8VJOJw6gQTbyekLfw",
   "workbench.colorCustomizations": {},
-  "workbench.colorTheme": "GitHub Dark Colorblind (Beta)",
+  "workbench.colorTheme": "One Dark Pro Darker",
   "workbench.editor.enablePreview": true,
   "workbench.iconTheme": "material-icon-theme",
   "better-comments.tags": [
@@ -167,5 +167,24 @@
   // Show fullpath or relative path in status bar.
   "ActiveFileInStatusBar.fullpath": true,
   // Reveal the active file in the file system.
-  "ActiveFileInStatusBar.revealFile": false
+  "ActiveFileInStatusBar.revealFile": false,
+
+  "files.trimTrailingWhitespace": true,
+  "editor.lineHeight": 30,
+  "workbench.preferredDarkColorTheme": "Default Dark+",
+  "oneDarkPro.editorTheme": "One Dark Pro Darker",
+  "editor.semanticTokenColorCustomizations": {
+    "[One Dark Pro]": {
+      // Apply to this theme only
+      "enabled": true,
+      "rules": {
+        "magicFunction:python": "#ee0000",
+        "function.declaration:python": "#990000",
+        "*.decorator:python": "#0000dd",
+        "*.typeHint:python": "#5500aa",
+        "*.typeHintComment:python": "#aaaaaa",
+        "parameter:python": "#aaaaaa"
+      }
+    }
+  }
 }
