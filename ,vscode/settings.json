@@ -66,7 +66,7 @@
   "scm.inputFontSize": 15,
   "settingsSync.ignoredExtensions": [],
   "settingsSync.ignoredSettings": [],
-  "tabnine.disableFileRegex": false,
+  "tabnine.disableFileRegex": [false],
   "tabnine.experimentalAutoImports": true,
   "tabnine.ignoreCertificateErrors": false,
   "terminal.integrated.defaultProfile.osx": "zsh",
@@ -142,7 +142,30 @@
   "bitoAI.codeCompletion.enableAutoCompletion": true,
   "bitoAI.codeCompletion.enableCommentToCode": true,
   "gitlens.graph.minimap.enabled": false,
-  "editor.minimap.enabled": false,
-  "editor.minimap.autohide": false,
-  "extensions.supportUntrustedWorkspaces": {}
+  "editor.minimap.autohide": true,
+  "extensions.supportUntrustedWorkspaces": {},
+  "files.encoding": "euckr",
+  "files.autoGuessEncoding": true,
+  "dotnetAcquisitionExtension.existingDotnetPath": [],
+  "highlight-matching-tag.enabled": true,
+  "highlight-matching-tag.showPath": true,
+  "highlight-matching-tag.showRuler": true,
+  "highlight-matching-tag.highlightSelfClosing": false,
+  "highlight-matching-tag.highlightFromContent": false,
+  "highlight-matching-tag.highlightFromName": true,
+  "highlight-matching-tag.highlightFromAttributes": true,
+  "highlight-matching-tag.noDefaultEmptyElements": false,
+  "highlight-matching-tag.styles": {
+    "opening": {
+      "name": {
+        "underline": "yellow"
+      }
+    }
+  },
+  // Enable/Disable ActiveFileInStatusBar
+  "ActiveFileInStatusBar.enable": true,
+  // Show fullpath or relative path in status bar.
+  "ActiveFileInStatusBar.fullpath": true,
+  // Reveal the active file in the file system.
+  "ActiveFileInStatusBar.revealFile": false
 }

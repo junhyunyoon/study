@@ -3,5 +3,7 @@
   "commentTranslate.source": "Google",
   "commentTranslate.targetLanguage": "ko",
   "python.analysis.autoImportCompletions": true,
-  "python.analysis.typeCheckingMode": "basic"
+  "python.analysis.typeCheckingMode": "basic",
+  "editor.formatOnType": true,
+  "javascript.preferences.quoteStyle": "double"
 }
