@@ -34,6 +34,10 @@
   "extensions.experimental.affinity": {
     "asvetliakov.vscode-neovim": 1
   },
+  "nvim-ui.nvimColorNormal": "#ffc600",
+  "nvim-ui.nvimColorInsert": "#D32F2F",
+  "nvim-ui.nvimColorVisual": "#673AB7",
+  "nvim-ui.nvimColorReplace": "#000",
   "files.autoSave": "onFocusChange",
   "files.defaultLanguage": "${activeEditorLanguage}",
   "git.autofetch": true,
@@ -237,5 +241,6 @@
       "open": ";",
       "close": ";"
     }
-  ]
+  ],
+  "editor.inlineSuggest.showToolbar": "onHover"
 }
