@@ -31,6 +31,7 @@
   "editor.wordSeparators": "`~!@#%^&*()-=+[{]}\\|;:'\",.<>/?",
   "editor.wordWrap": "on",
   "explorer.fileNesting.enabled": true,
+  "markdown-pdf.convertOnSave": true,
   "extensions.experimental.affinity": {
     "asvetliakov.vscode-neovim": 1
   },

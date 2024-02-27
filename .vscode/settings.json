@@ -1,3 +1,14 @@
 {
-  "commentTranslate.targetLanguage": "ko"
+  "commentTranslate.targetLanguage": "ko",
+  "commentTranslate.ignore": [
+    {
+      "languageId": "javascript,typescript,javascriptreact,typescriptreact",
+      "regular": "[\\*\\s]+"
+    },
+    {
+      "languageId": "dart",
+      "regular": "[\\s|/]+"
+    }
+  ],
+  "css.styleSheets": []
 }
