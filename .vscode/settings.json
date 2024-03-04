@@ -11,5 +11,6 @@
     }
   ],
   "css.styleSheets": [],
-  "editor.fontFamily": "Menlo, Monaco, 'Courier New', monospace, LGsmart_H"
+  "editor.fontFamily": "Menlo, Monaco, 'Courier New', monospace, LGsmart_H",
+  "editor.fontSize": 14
 }
