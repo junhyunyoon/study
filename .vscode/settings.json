@@ -10,5 +10,6 @@
       "regular": "[\\s|/]+"
     }
   ],
-  "css.styleSheets": []
+  "css.styleSheets": [],
+  "editor.fontFamily": "Menlo, Monaco, 'Courier New', monospace, LGsmart_H"
 }
